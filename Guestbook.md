@@ -18,6 +18,7 @@ And this is my first pull request :octocat:!
 * [Atanas Pashkov](http://www.twitter.com/Dgaduin)
 * [Gareth Sheppard](http://dafk.net/what/)
 * [Andrei Tuta](https://twitter.com/andrei_tu)
+* [prava](https://github.com/pravaghimire)
 * [Martin Svejda](https://www.linkedin.com/in/martinsvejda)
 * [Rachel Mcteigue](https://github.com/HackNewbieBCU)
 * [Jordan Lees](https://github.com/JordanL1)
